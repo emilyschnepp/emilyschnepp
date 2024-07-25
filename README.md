@@ -6,7 +6,7 @@
 <br>
 📫 You can reach me here: [LinkedIn](www.linkedin.com/in/emilyschnepp)
 <br>
-🎓 Education: Currently Pursuing MS-Business Data Analytics at Lawrence Technological University. 
+🎓 Education: MS in Business Data Analytics, Lawrence Technological University. 
 <br>
 🏆 Achievements: Inducted into Beta Gamma Sigma April 2024.
 <!---
