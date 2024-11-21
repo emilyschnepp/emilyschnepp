@@ -1,4 +1,4 @@
-👋 Hey! I'm Emily (She/Her). 
+👋 Hey! I'm Emily. 
 <br>
 👀 I'm passionate about data science, data visualization, business, travel, and personal finance.
 <br>
